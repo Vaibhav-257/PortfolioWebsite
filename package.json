@@ -1,0 +1,18 @@
+{
+  "name": "dance-website",
+  "version": "1.0.0",
+  "description": "This is a website for a popular dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankita Verma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.1",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2"
+  }
+}
